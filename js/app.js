@@ -1,0 +1,1 @@
+"use strict";//Made var//Carrier open add_carrierdocument.getElementById('buttom_carrier').onclick = function() {    alert("fsdfs");};
